@@ -6,7 +6,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
 import { toast } from "sonner";
-import { Search, Plus, Trash, RefreshCw, Edit } from "lucide-react";
+import { Search, Plus, Trash, RefreshCw, Edit, X, Database } from "lucide-react";
 import { KeyValuePair } from '@/lib/types';
 import KeyValueEditor from './KeyValueEditor';
 import db from '@/lib/database';

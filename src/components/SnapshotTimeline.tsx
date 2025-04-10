@@ -23,7 +23,8 @@ import {
   ChevronDown, 
   Check,
   Calendar,
-  Tag 
+  Tag,
+  Search 
 } from "lucide-react";
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
